@@ -1,0 +1,28 @@
+﻿.lights-container
+{
+    background-color: #08003b;
+}
+
+.lightbulb-indicator
+{
+    height: 40px;
+    width: 40px;
+}
+
+.lightbulb-container
+{
+    float:left;
+    background-color: inherit;
+}
+
+.lightbulb-container-label
+{
+    float: left;
+    color: #f3f5cc;
+}
+
+.clear
+{
+    clear: both;
+}
+
